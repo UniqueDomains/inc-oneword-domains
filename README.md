@@ -1,22 +1,22 @@
-# Available .INC One-Word Domains (9,352)
+# Available .INC One-Word Domains (11,774)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C352%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C352%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C774%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .inc one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .inc one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,774 domains** on the canonical page below.
 
-**Public extract:** 9,352 rows · **Live catalog:** 9,352 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,774 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/inc`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .INC one-word domain c
 
 ### Files
 
-- `inc.csv` — public CSV extract (9,352 rows)
-- `inc.json` — public JSON extract (9,352 rows)
+- `inc.csv` — public CSV extract (1,000 rows)
+- `inc.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| nice.inc        | available | $350      | $3,799.99     | 86             | 44     | 4      | name.com      |
-| blue.inc        | resell    | —         | —             | 92             | 58     | 4      | Porkbun, LLC  |
-| silver.inc      | premium   | $2,015    | $2,600        | 56             | 99     | 6      | namecheap     |
-| boost.inc       | available | $350      | —             | 78             | 39     | 5      | name.com      |
-| any.inc         | resell    | —         | —             | 80             | 42     | 3      | Go Daddy, LLC |
-| nationwide.inc  | premium   | $2,015    | $2,600        | 76             | 66     | 10     | namecheap     |
-| coral.inc       | available | $350      | $3,799.99     | 68             | 32     | 5      | name.com      |
-| california.inc  | resell    | —         | —             | 72             | 36     | 10     | Go Daddy, LLC |
-| seventeen.inc   | premium   | $2,015    | $2,600        | 84             | 62     | 9      | namecheap     |
-| natural.inc     | available | $2,798    | —             | 106            | 28     | 7      | namecheap     |
-| hot.inc         | resell    | —         | —             | 98             | 30     | 3      | Dynadot LLC   |
-| ace.inc         | premium   | $2,015    | $2,600        | 88             | 57     | 3      | namecheap     |
-| three.inc       | available | $350      | $3,799.99     | 88             | 27     | 5      | name.com      |
-| thing.inc       | resell    | —         | —             | 84             | 28     | 5      | Namecheap     |
-| athletics.inc   | premium   | $2,015    | $2,600        | 69             | 52     | 9      | namecheap     |
-| allegro.inc     | available | $350      | $3,799.99     | 100            | 23     | 7      | name.com      |
-| stockmarket.inc | resell    | —         | —             | 76             | 27     | 12     | Dynadot LLC   |
-| game.inc        | premium   | $2,015    | $2,600        | 120            | 50     | 4      | namecheap     |
-| twentyone.inc   | available | $350      | $3,799.99     | 84             | 15     | 10     | name.com      |
-| press.inc       | resell    | —         | —             | 66             | 20     | 5      | Dynadot LLC   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| CocaCola.inc     | available | $2,798    | —             | 92             | 82     | 9      | namecheap |
+| thing.inc        | resell    | —         | —             | 84             | 28     | 5      | Namecheap |
+| nets.inc         | premium   | $2,170    | $2,800        | 54             | 81     | 4      | namecheap |
+| RedSox.inc       | available | $2,798    | —             | 72             | 60     | 7      | namecheap |
+| deposits.inc     | resell    | —         | —             | 54             | 7      | 8      | Namecheap |
+| online.inc       | premium   | $2,170    | $2,800        | 70             | 62     | 7      | namecheap |
+| motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
+| regions.inc      | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
+| deeplearning.inc | available | $350      | —             | 74             | 23     | 13     | name.com  |
+| Books.inc        | premium   | $2,170    | $2,800        | 52             | 49     | 5      | namecheap |
+| inhouse.inc      | available | $350      | —             | 70             | 23     | 8      | name.com  |
+| shortcuts.inc    | premium   | $2,170    | $2,800        | 48             | 41     | 10     | namecheap |
+| stadia.inc       | available | $350      | —             | 66             | 22     | 6      | name.com  |
+| justin.inc       | premium   | $2,170    | $2,800        | 58             | 38     | 7      | namecheap |
+| HarryPotter.inc  | available | $2,798    | —             | 72             | 20     | 12     | namecheap |
+| events.inc       | premium   | $2,170    | $2,800        | 68             | 37     | 6      | namecheap |
+| lostandfound.inc | available | $350      | —             | 64             | 19     | 14     | name.com  |
+| tokens.inc       | premium   | $2,061.50 | $2,660        | 51             | 36     | 6      | namesilo  |
+| outofoffice.inc  | available | $350      | —             | 61             | 19     | 13     | name.com  |
+| spectra.inc      | premium   | $2,170    | $2,800        | 62             | 34     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,352-row public sample | 9,352 live domains                               |
+| 1,000-row public sample | 11,774 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
