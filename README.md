@@ -1,10 +1,10 @@
-# Available .INC One-Word Domains (12,313)
+# Available .INC One-Word Domains (12,314)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C313%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C314%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .inc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,313 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,314 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,313 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,314 domains · **Median ask:** $1,353.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/inc`  
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,18 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.inc         | available | $2,798    | —             | 80             | 5      | 5      | namecheap |
+| barup.inc        | available | $350      | —             | 82             | 2      | 6      | name.com  |
+| useit.inc        | available | $350      | —             | 94             | 7      | 6      | name.com  |
+| gearup.inc       | available | $350      | —             | 80             | 16     | 7      | name.com  |
+| QandA.inc        | available | $2,798    | —             | 80             | 10     | 7      | namecheap |
+| hangon.inc       | available | $350      | —             | 82             | 6      | 7      | name.com  |
+| stirup.inc       | available | $350      | —             | 82             | 3      | 7      | name.com  |
+| leaveon.inc      | available | $350      | —             | 80             | 1      | 8      | name.com  |
+| FabFour.inc      | available | $279      | $2,099        | 82             | 3      | 8      | namesilo  |
+| chaitea.inc      | available | $350      | —             | 86             | 3      | 8      | name.com  |
 | CocaCola.inc     | available | $2,798    | —             | 92             | 82     | 9      | namecheap |
-| thing.inc        | resell    | —         | —             | 84             | 28     | 5      | Namecheap |
+| thing.inc        | resell    | —         | —             | 84             | 26     | 5      | Namecheap |
 | nets.inc         | premium   | $2,170    | $2,800        | 54             | 81     | 4      | namecheap |
 | motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
 | deposits.inc     | resell    | —         | —             | 54             | 7      | 8      | Namecheap |
@@ -74,16 +84,6 @@ print(df.head())
 | regions.inc      | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
 | inhouse.inc      | available | $350      | —             | 70             | 23     | 8      | name.com  |
 | Books.inc        | premium   | $2,170    | $2,800        | 52             | 49     | 5      | namecheap |
-| stadia.inc       | available | $350      | —             | 66             | 22     | 6      | name.com  |
-| events.inc       | premium   | $2,170    | $2,800        | 68             | 37     | 6      | namecheap |
-| HarryPotter.inc  | available | $2,798    | —             | 72             | 20     | 12     | namecheap |
-| tokens.inc       | premium   | $2,061.50 | $2,660        | 51             | 36     | 6      | namesilo  |
-| lostandfound.inc | available | $350      | —             | 64             | 19     | 14     | name.com  |
-| spectra.inc      | premium   | $2,170    | $2,800        | 62             | 34     | 7      | namecheap |
-| gobeyond.inc     | available | $350      | —             | 76             | 18     | 9      | name.com  |
-| Cats.inc         | premium   | $2,170    | $2,800        | 59             | 33     | 4      | namecheap |
-| pestcontrol.inc  | available | $350      | —             | 74             | 18     | 12     | name.com  |
-| trends.inc       | premium   | $2,170    | $2,800        | 60             | 32     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,313 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,314 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all .inc names, with one-word constructions that often read like short commands, phrases, or compact brand terms. Examples such as Acup.inc, geton.inc, useit.inc, gearup.inc, and hangon.inc show a practical, action-led style rather than abstract coinages. For founders, the main question is whether the word feels memorable, easy to say, and strong enough to stand alone. For investors, the key test is whether the ask leaves room for realistic resale interest within the .inc niche. With a median ask of $1,353, this set sits in a range where pricing discipline matters more than hype.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Most names are short, action-led, and brandable in .inc
+- Median ask is $1,353 across this selection
+- Check whether the word stands alone without extra context
+- Prioritize clean spelling and low trademark ambiguity
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
