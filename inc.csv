@@ -465,6 +465,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2649ecaf-bef2-4225-9204-c55e676fd0ca,filetype.inc,available,350,,64,3,9,name.com,,
 26641876-bd57-4560-81ce-9100616f5bab,resumed.inc,premium,2170,2800,56,4,7,namecheap,,
 266b1bb1-a30e-4c71-a6d1-e66c7a9aad8e,conveniencestores.inc,available,279,2099,46,2,18,namesilo,,
+2677c519-7a5d-4e06-8b9a-2d1ef4dd98bc,yes.inc,premium,,,90,47,3,,,
 26885d1c-d4fb-4ec1-96ed-bdf644d6928b,clearoff.inc,available,350,,72,1,9,name.com,,
 268ff5d3-7479-463a-81bf-5d8b82237b91,trios.inc,available,279,2099,50,9,5,namesilo,,
 26926cbb-fe9f-4ef4-b535-437adca0bb58,leavenocrumbs.inc,available,350,,70,1,15,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5679c3bd-ebca-4d21-a6d5-df817a9fbb80,decideupon.inc,available,350,,76,0,11,name.com,,
 5689bfe9-faba-4f66-aab3-928e8aff7c52,coffeeberry.inc,available,350,,80,4,12,name.com,,
 568d755c-0a3f-4da5-927b-1e895a8f2106,onetrickpony.inc,available,350,,56,6,14,name.com,,
-56b3195e-9051-4f29-813e-9e5ff8ae0188,fellowing.inc,available,279,2099,52,5,9,namesilo,,
