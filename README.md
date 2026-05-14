@@ -78,7 +78,7 @@ print(df.head())
 | thing.inc        | resell    | —         | —             | 84             | 26     | 5      | Namecheap |
 | nets.inc         | premium   | $2,170    | $2,800        | 54             | 81     | 4      | namecheap |
 | motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
-| deposits.inc     | resell    | —         | —             | 54             | 7      | 8      | Namecheap |
+| deposits.inc     | resell    | —         | —             | 54             | 6      | 8      | Namecheap |
 | online.inc       | premium   | $2,170    | $2,800        | 70             | 62     | 7      | namecheap |
 | deeplearning.inc | available | $350      | —             | 74             | 23     | 13     | name.com  |
 | regions.inc      | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
