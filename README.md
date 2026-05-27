@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .inc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,318 domains · **Median ask:** $1,353.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/inc`  
 **Best for:** founders, investors, studios
 
@@ -77,12 +77,12 @@ print(df.head())
 | CocaCola.inc     | available | $2,798    | —             | 92             | 82     | 9      | namecheap |
 | thing.inc        | resell    | —         | —             | 84             | 26     | 5      | Namecheap |
 | nets.inc         | premium   | $2,170    | $2,800        | 54             | 81     | 4      | namecheap |
-| motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
+| inhouse.inc      | available | $350      | —             | 70             | 24     | 8      | name.com  |
 | deposits.inc     | resell    | —         | —             | 54             | 6      | 8      | Namecheap |
 | online.inc       | premium   | $2,170    | $2,800        | 70             | 62     | 7      | namecheap |
-| deeplearning.inc | available | $350      | —             | 74             | 23     | 13     | name.com  |
+| motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
 | regions.inc      | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
-| inhouse.inc      | available | $350      | —             | 70             | 23     | 8      | name.com  |
+| deeplearning.inc | available | $350      | —             | 74             | 23     | 13     | name.com  |
 | Books.inc        | premium   | $2,170    | $2,800        | 52             | 49     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
