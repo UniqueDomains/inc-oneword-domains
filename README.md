@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .inc one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,318 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,318 domains · **Median ask:** $1,353.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,318 domains · **Median ask:** $1,395.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/inc`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/inc`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INC one-word domain c
 
 ### Files
 
-- `inc.csv` — public CSV extract (1,000 rows)
-- `inc.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `inc.csv`, public CSV extract (1,000 rows)
+- `inc.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.inc         | available | $2,798    | —             | 80             | 5      | 5      | namecheap |
-| barup.inc        | available | $350      | —             | 82             | 2      | 6      | name.com  |
-| useit.inc        | available | $350      | —             | 94             | 7      | 6      | name.com  |
-| gearup.inc       | available | $350      | —             | 80             | 16     | 7      | name.com  |
-| QandA.inc        | available | $2,798    | —             | 80             | 10     | 7      | namecheap |
-| hangon.inc       | available | $350      | —             | 82             | 6      | 7      | name.com  |
-| stirup.inc       | available | $350      | —             | 82             | 3      | 7      | name.com  |
-| leaveon.inc      | available | $350      | —             | 80             | 1      | 8      | name.com  |
-| FabFour.inc      | available | $279      | $2,099        | 82             | 3      | 8      | namesilo  |
-| chaitea.inc      | available | $350      | —             | 86             | 3      | 8      | name.com  |
-| CocaCola.inc     | available | $2,798    | —             | 92             | 82     | 9      | namecheap |
-| thing.inc        | resell    | —         | —             | 84             | 26     | 5      | Namecheap |
-| nets.inc         | premium   | $2,170    | $2,800        | 54             | 81     | 4      | namecheap |
-| inhouse.inc      | available | $350      | —             | 70             | 24     | 8      | name.com  |
-| deposits.inc     | resell    | —         | —             | 54             | 6      | 8      | Namecheap |
-| online.inc       | premium   | $2,170    | $2,800        | 70             | 62     | 7      | namecheap |
-| motorsport.inc   | available | $350      | —             | 74             | 23     | 10     | name.com  |
-| regions.inc      | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
-| deeplearning.inc | available | $350      | —             | 74             | 23     | 13     | name.com  |
-| Books.inc        | premium   | $2,170    | $2,800        | 52             | 49     | 5      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| yur.inc       | available | $279      | $2,099        | high           | low    | 3      | namesilo     |
+| apostolic.inc | resell    | —         | —             | medium         | low    | 9      | Porkbun, LLC |
+| act.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| ahuh.inc      | available | $279      | $2,099        | high           | low    | 4      | namesilo     |
+| ana.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| seek.inc      | available | $279      | $2,099        | high           | low    | 4      | namesilo     |
+| bad.inc       | premium   | $2,061.50 | $2,660        | high           | medium | 3      | namesilo     |
+| ttyl.inc      | available | $279      | $2,099        | low            | low    | 4      | namesilo     |
+| bow.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| onec.inc      | available | $279      | $2,099        | low            | low    | 5      | namesilo     |
+| CNN.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| three.inc     | available | $350      | $3,799.99     | high           | low    | 5      | name.com     |
+| coy.inc       | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap    |
+| batup.inc     | available | $279      | $2,099        | medium         | low    | 6      | namesilo     |
+| cue.inc       | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap    |
+| eatat.inc     | available | $279      | $2,099        | high           | low    | 6      | namesilo     |
+| DIY.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| ifnot.inc     | available | $279      | $2,099        | medium         | low    | 6      | namesilo     |
+| don.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo     |
+| jabber.inc    | available | $279      | $2,099        | high           | low    | 6      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all .inc names, with one-word constructions that often read like short commands, phrases, or compact brand terms. Examples such as Acup.inc, geton.inc, useit.inc, gearup.inc, and hangon.inc show a practical, action-led style rather than abstract coinages. For founders, the main question is whether the word feels memorable, easy to say, and strong enough to stand alone. For investors, the key test is whether the ask leaves room for realistic resale interest within the .inc niche. With a median ask of $1,353, this set sits in a range where pricing discipline matters more than hype.
+This list covers one-word .INC domain names across everyday phrases, business terms, and lifestyle language — from criteria.inc and bonappetit.inc to restassured.inc and letitalone.inc. With 12,318 domains and a median asking price near $1,396, the set spans budget-friendly options through premium, brand-ready names. The .INC extension signals corporate identity, making these domains suited to companies, holding entities, and product launches that want a clean, professional read.
 
-- Most names are short, action-led, and brandable in .inc
-- Median ask is $1,353 across this selection
-- Check whether the word stands alone without extra context
-- Prioritize clean spelling and low trademark ambiguity
+- 12,318 one-word .INC domains tracked, updated daily
+- Median asking price near $1,396 across the full set
+- Names span everyday phrases to brandable business terms
+- Compare pricing and renewal signals before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
