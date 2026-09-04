@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .inc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,652 domains · **Median ask:** $1,253.41 · **High-demand under $2,500:** 53
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-04
 **Canonical page:** `https://unique.domains/domains/tld/inc`
 **Best for:** founders, investors, studios
 
@@ -70,6 +70,7 @@ print(df.head())
 | off.inc     | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | brief.inc   | premium   | $2,015    | $2,600        | high           | low    | 5      | namecheap |
 | perfect.inc | premium   | $2,061.50 | $2,660        | high           | low    | 7      | namesilo  |
+| special.inc | premium   | $2,170    | $2,800        | high           | low    | 7      | namecheap |
 | clv.inc     | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
 | act.inc     | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | ixl.inc     | available | $279      | $2,099        | low            | low    | 3      | namesilo  |
@@ -83,7 +84,6 @@ print(df.head())
 | coy.inc     | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap |
 | seek.inc    | available | $279      | $2,099        | high           | low    | 4      | namesilo  |
 | cue.inc     | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap |
-| ttyl.inc    | available | $279      | $2,099        | low            | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
