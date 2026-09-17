@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .inc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,511 domains · **Median ask:** $1,198.42 · **High-demand under $2,500:** 59
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/inc`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,15 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.inc  | premium   | $2,061.50 | $2,660        | high           | low    | 4      | namesilo  |
+| bad.inc   | premium   | $2,061.50 | $2,660        | high           | medium | 3      | namesilo  |
+| clean.inc | premium   | $2,015    | $2,600        | high           | low    | 5      | namecheap |
+| off.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | clv.inc   | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
 | act.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | ixl.inc   | available | $279      | $2,099        | low            | low    | 3      | namesilo  |
 | ana.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | yur.inc   | available | $279      | $2,099        | high           | low    | 3      | namesilo  |
-| bad.inc   | premium   | $2,061.50 | $2,660        | high           | medium | 3      | namesilo  |
 | ague.inc  | available | $279      | $2,099        | low            | low    | 4      | namesilo  |
 | bow.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | ahuh.inc  | available | $279      | $2,099        | high           | low    | 4      | namesilo  |
@@ -81,9 +84,6 @@ print(df.head())
 | ttyl.inc  | available | $279      | $2,099        | low            | low    | 4      | namesilo  |
 | DIY.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
 | xxix.inc  | available | $279      | $2,099        | low            | low    | 4      | namesilo  |
-| don.inc   | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
-| aerie.inc | available | $279      | $2,099        | medium         | medium | 5      | namesilo  |
-| eye.inc   | premium   | $2,061.50 | $2,660        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
