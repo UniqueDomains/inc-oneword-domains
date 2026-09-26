@@ -1,10 +1,10 @@
-# Available .INC One-Word Domains (32,907)
+# Available .INC One-Word Domains (23,214)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C907%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C214%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .inc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,907 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,214 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,907 domains · **Median ask:** $1,117.73 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 23,214 domains · **Median ask:** $1,530.74 · **High-demand under $2,500:** 91
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/inc`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| vitamin.inc    | premium   | $2,015    | $2,600        | high           | low    | 7      | namecheap |
-| check.inc      | premium   | $2,015    | $2,600        | high           | medium | 5      | namecheap |
-| prevention.inc | premium   | $2,015    | $2,600        | high           | low    | 10     | namecheap |
-| madison.inc    | premium   | $2,015    | $2,600        | high           | low    | 7      | namecheap |
-| bite.inc       | premium   | $2,015    | $2,600        | high           | low    | 4      | namecheap |
-| endorse.inc    | premium   | $2,015    | $2,600        | high           | low    | 7      | namecheap |
-| clv.inc        | available | $279      | $2,099        | high           | low    | 3      | namesilo  |
-| act.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
-| ilx.inc        | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
-| ana.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
-| ixl.inc        | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
-| ava.inc        | premium   | $2,061.50 | $2,660        | high           | medium | 3      | namesilo  |
-| yur.inc        | available | $279      | $2,099        | high           | low    | 3      | namesilo  |
-| axe.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
-| ague.inc       | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
-| cnn.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
-| ahuh.inc       | available | $279      | $2,099        | high           | low    | 4      | namesilo  |
-| cue.inc        | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap |
-| ecru.inc       | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
-| des.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| windows.inc  | premium   | $2,015    | $2,600        | high           | medium | 7      | namecheap |
+| maker.inc    | premium   | $2,499    | $3,799.99     | high           | medium | 5      | name.com  |
+| canadian.inc | premium   | $2,061.50 | $2,660        | high           | low    | 8      | namesilo  |
+| ire.inc      | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
+| are.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| oks.inc      | available | $279      | $2,099        | high           | low    | 3      | namesilo  |
+| bap.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| yob.inc      | available | $279      | $2,099        | medium         | low    | 3      | namesilo  |
+| bro.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| aras.inc     | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
+| cob.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| baic.inc     | available | $498      | $2,798        | medium         | low    | 4      | namecheap |
+| cup.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| coxa.inc     | available | $279      | $2,099        | high           | low    | 4      | namesilo  |
+| hem.inc      | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap |
+| miry.inc     | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
+| hic.inc      | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo  |
+| pean.inc     | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
+| jut.inc      | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap |
+| annul.inc    | available | $279      | $2,099        | high           | low    | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,907 live domains                        |
+| 1,000-row public sample | 23,214 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 47 high-demand names under $2,500          |
+| Basic exported fields   | 91 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INC One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
