@@ -1,10 +1,10 @@
-# Available .INC One-Word Domains (24,161)
+# Available .INC One-Word Domains (24,737)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C161%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C737%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .inc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,161 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,737 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,161 domains · **Median ask:** $1,543.69 · **High-demand under $2,500:** 99
+**Public extract:** 1,000 rows · **Live catalog:** 24,737 domains · **Median ask:** $1,548.54 · **High-demand under $2,500:** 103
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/inc`
@@ -81,7 +81,7 @@ print(df.head())
 | miry.inc  | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
 | jut.inc   | premium   | $2,015    | $2,600        | medium         | low    | 3      | namecheap |
 | pean.inc  | available | $279      | $2,099        | medium         | low    | 4      | namesilo  |
-| maj.inc   | premium   | $2,499    | $3,799.99     | high           | low    | 3      | name.com  |
+| lau.inc   | premium   | $1,604.45 | $2,070.20     | medium         | low    | 3      | spaceship |
 | annul.inc | available | $279      | $2,099        | high           | low    | 5      | namesilo  |
 | nba.inc   | premium   | $1,604.45 | $2,070.20     | high           | high   | 3      | spaceship |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,161 live domains                        |
+| 1,000-row public sample | 24,737 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 99 high-demand names under $2,500          |
+| Basic exported fields   | 103 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
